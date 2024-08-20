@@ -1,4 +1,4 @@
-export type CountryDetail = {
+export type CountryDetailItem = {
   name: string;
   capital: string;
   flags: any;
